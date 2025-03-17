@@ -1,3 +1,3 @@
-Z:/5. Github Repos/Data-Structures-Implementations/Ex1/cmake-build-debug/CMakeFiles/TeMe.dir
+Z:/5. Github Repos/Data-Structures-Implementations/Ex1/cmake-build-debug/CMakeFiles/Ex1.dir
 Z:/5. Github Repos/Data-Structures-Implementations/Ex1/cmake-build-debug/CMakeFiles/edit_cache.dir
 Z:/5. Github Repos/Data-Structures-Implementations/Ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -3,4 +3,4 @@ project(Ex4)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Ex4 main.cpp)
+add_executable(Ex4 Ex4.cpp)

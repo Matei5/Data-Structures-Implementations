@@ -3,4 +3,4 @@ project(Ex1)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(TeMe main.cpp)
+add_executable(Ex1 Ex1.cpp)

@@ -3,4 +3,4 @@ project(Ex21)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Ex2a main.cpp)
+add_executable(Ex21 Ex21.cpp)

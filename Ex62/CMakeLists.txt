@@ -3,4 +3,4 @@ project(Ex62)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Ex62 main.cpp)
+add_executable(Ex62 Ex62.cpp)
