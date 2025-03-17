@@ -1,8 +1,8 @@
-# Install script for directory: A:/4. Facultate/Anul 1 Sem 2/6. Struct Date/TeMe/Ex1
+# Install script for directory: Z:/5. Github Repos/Data-Structures-Implementations/Ex1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/TeMe")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Ex1")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "A:/4. Facultate/Anul 1 Sem 2/6. Struct Date/TeMe/Ex1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "Z:/5. Github Repos/Data-Structures-Implementations/Ex1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

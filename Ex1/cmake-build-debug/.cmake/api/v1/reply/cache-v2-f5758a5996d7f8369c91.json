@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "a:/4. Facultate/Anul 1 Sem 2/6. Struct Date/TeMe/Ex1/cmake-build-debug"
+			"value" : "z:/5. Github Repos/Data-Structures-Implementations/Ex1/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "A:/4. Facultate/Anul 1 Sem 2/6. Struct Date/TeMe/Ex1/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "Z:/5. Github Repos/Data-Structures-Implementations/Ex1/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "A:/4. Facultate/Anul 1 Sem 2/6. Struct Date/TeMe/Ex1"
+			"value" : "Z:/5. Github Repos/Data-Structures-Implementations/Ex1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/TeMe"
+			"value" : "C:/Program Files (x86)/Ex1"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1279,7 +1279,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "A:/4. Facultate/Anul 1 Sem 2/6. Struct Date/TeMe/Ex1/cmake-build-debug"
+			"value" : "Z:/5. Github Repos/Data-Structures-Implementations/Ex1/cmake-build-debug"
 		},
 		{
 			"name" : "Ex1_IS_TOP_LEVEL",
@@ -1303,43 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "A:/4. Facultate/Anul 1 Sem 2/6. Struct Date/TeMe/Ex1"
-		},
-		{
-			"name" : "TeMe_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "A:/4. Facultate/Anul 1 Sem 2/6. Struct Date/TeMe/Ex1/cmake-build-debug"
-		},
-		{
-			"name" : "TeMe_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "TeMe_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "A:/4. Facultate/Anul 1 Sem 2/6. Struct Date/TeMe/Ex1"
+			"value" : "Z:/5. Github Repos/Data-Structures-Implementations/Ex1"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
